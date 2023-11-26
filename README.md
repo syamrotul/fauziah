@@ -40,10 +40,10 @@
     <p>MARI KITA JAGA BUMI KITA!!!</p>
     <h4><i>
     <p>
-        <p font color="green">Indah bunga ditaman</font>
-        <p font color="red">Duduk santai sambil bersama nyonya</font>
-        <p font color="green">Sampai jumpa teman-teman</font>
-        <p font color="red">Sampai bertemu dipembahasan selanjutnya</font>
+        <font color="green">Indah bunga ditaman</font>
+        <font color="red">Duduk santai sambil bersama nyonya</font>
+        <font color="green">Sampai jumpa teman-teman</font>
+        <font color="red">Sampai bertemu dipembahasan selanjutnya</font>
     </p>
     </i></h4>
     <hr>
