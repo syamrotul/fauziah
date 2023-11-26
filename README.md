@@ -39,17 +39,14 @@
     <p>Itulah tindakan yang bisa kita lakukan untuk mengurangi pemanasan global</p>
     <p>MARI KITA JAGA BUMI KITA!!!</p>
     <h4><i>
-    <p><font color="green">Indah bunga ditaman</font>
-    </p>
-    <p><font color="red">Duduk santai sambil bersama nyonya</font>
-    </p>
-    <p><font color="green">Sampai jumpa teman-teman</font>
-    </p>
-    <p><font color="red">Sampai bertemu dipembahasan selanjutnya</font>
+    <p>
+        <font color="green">Indah bunga ditaman</font>
+        <font color="red">Duduk santai sambil bersama nyonya</font>
+        <font color="green">Sampai jumpa teman-teman</font>
+        <font color="red">Sampai bertemu dipembahasan selanjutnya</font>
     </p>
     </i></h4>
     <hr>
-    <h2><marquee><u>SEKIAN TERIMAKASIH
-    </u></marquee></h2>
+    <h2><marquee><u>THANKYOU!!!</u></marquee></h2>
 </body>    
 </html>
