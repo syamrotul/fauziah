@@ -7,7 +7,7 @@
     <hr>
     <h1><font color="blue"><font face="Arial Block">PEMANASAN GLOBAL</font></font></h1>
     <hr>
-    <h4>PENGERTIAN</h4>
+    <h4><b>PENGERTIAN</b></h4>
     <body><p align="justify">Perubahan Iklim adalah proses peningkatan suhu rata-rata atmosfer, laut, dan daratan bumi. Meningkatnya suhu global diperkirakan akan menyebabkan peruabahan-perubahan yang lain seperti naiknya permukaan air laut, meningkatnya intensitas fenomena cuaca yang ekstream, serta peruabahan jumlah dan pola presipitasi.</p></body>
     <h4>PENYEBAB</h4>
     <p align="justify">Apa saja sebenarnya yang menyebabkan bumi ini semakin panas? Mengapa bumi bisa mengalami kenaikan suhu? Nah,ini dia penyebabnya</p>
