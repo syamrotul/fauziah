@@ -37,7 +37,7 @@
         </tr>
     </table>
     <p>Itulah tindakan yang bisa kita lakukan untuk mengurangi pemanasan global</p>
-    <p>MARI KITA JAGA BUMI KITA!!!</p>
+    <p><i>MARI KITA JAGA BUMI KITA!!!</i></p>
 
     <hr>
     <h2><marquee><u>THANKYOU!!!</u></marquee></h2>
